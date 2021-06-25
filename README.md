@@ -1,9 +1,14 @@
-Current template 6/24
--to do: 
-- README
-- copy template to Athenian Computer Science and Comp Thinking orgs
+# Assignment Title
+### Instructions
+
+#### Steps to take
 
 
 
-Attribution:
-Bianca Ruiz [@RuiztheRuler](https://github.com/RuizTheRuler)
+
+#### Submission instructions
+
+
+
+**Attribution:**
+Thank you to Bianca Ruiz [@RuiztheRuler](https://github.com/RuizTheRuler) for providing a great starting place for automating feedback!
